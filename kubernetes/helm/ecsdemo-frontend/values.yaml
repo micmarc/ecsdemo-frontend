@@ -3,9 +3,9 @@
 # Declare variables to be passed into your templates.
 
 ecsdemoCrystal:
-  namespace: ecsdemo-crystal
+  namespace: team-hufflepuff
 ecsdemoNodejs:
-  namespace: ecsdemo-nodejs
+  namespace: team-gryffindor
 replicaCount: 1
 
 image:

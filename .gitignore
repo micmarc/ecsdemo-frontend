@@ -2,3 +2,4 @@
 cdk.context.*
 cdk.out
 .env
+.idea/
